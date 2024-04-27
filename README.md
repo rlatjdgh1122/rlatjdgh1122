@@ -1,5 +1,19 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=838bb2&height=100&section=header&text=&nbsp;빵&nbsp;반죽&nbsp;같은&nbsp;개발자,&nbsp;김성호입니다&fontColor=FFF0F8FF&fontSize=30&animation=fadeIn&fontAlignY=55)<br/><br/>  
+# 반갑습니다! 👋
+## 클라이언트 개발자 김성호입니다.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **노션(자소서)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **개발 블로그**
+
+<div align="left">
+<a href="https://mercury-truck-859.notion.site/e7d27601569b4e1f873f917c81ff529f">
+ <img src="https://cdn.digitaltoday.co.kr/news/photo/202008/244369_212315_639.jpg" width="175" height="175" margin="100">
+
+<a href="https://longseonghoshortseongmidseongho.tistory.com/" target="_blank">
+ <img src="https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg" width="175" height="175">
+<a>
+</div>
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatjdgh1122&show_icons=true&theme=radical)
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=rlatjdgh1122&theme=calm)](https://github.com/rlatjdgh1122)
