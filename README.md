@@ -1,4 +1,3 @@
-# 반갑습니다! 👋
 ## 클라이언트 개발자 김성호입니다.
 <div align="left">
 <a href="https://mercury-truck-859.notion.site/e7d27601569b4e1f873f917c81ff529f">
