@@ -1,9 +1,5 @@
 # 반갑습니다! 👋
 ## 클라이언트 개발자 김성호입니다.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **노션(자소서)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **개발 블로그**
-
 <div align="left">
 <a href="https://mercury-truck-859.notion.site/e7d27601569b4e1f873f917c81ff529f">
  <img src="https://cdn.digitaltoday.co.kr/news/photo/202008/244369_212315_639.jpg" width="175" height="175" margin="100">
